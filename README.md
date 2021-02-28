@@ -6,7 +6,28 @@
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS.
 
-Skills: PYTHON / JAVA / MYSQL / REACT / JS / HTML / CSS
+:memo: Skills
+
+Front-End :         
+
+
+:white_square_button: HTML                                
+
+:white_square_button: CSS 
+
+:white_square_button: JavasScript 
+
+Back-End :
+
+:white_square_button: PHP , Java
+
+:white_square_button: Base de Datos (MySql , Oracle ) 
+
+Framewoks : 
+
+:white_square_button:  Angular 
+
+:white_square_button:  React 
 
 
 
